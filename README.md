@@ -7,3 +7,7 @@ For this analysis, I will be utilizing Excel for data manipulation and Tableau f
 
 In the dataset, a total of 1,074 companies have recently gained a Billion dollar valuation deeming them to be Unicorns. Now, let's explore the data furthermore to find,  Which countries have the most unicorns? Are there any cities that appear to be industry hubs? Which unicorn companies have had the biggest return on investment?
 
+For Further more Information regarding this analysis please refer below Medium Article.
+
+https://medium.com/@msvs.akhilsharma/analysis-and-visualization-of-unicorn-start-ups-data-using-tableau-cb01e67bfd37
+
